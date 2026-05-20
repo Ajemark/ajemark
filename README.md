@@ -1,6 +1,6 @@
 # Hi, I'm Mark Ajekevwoda 👋
 
-**Full-Stack & Blockchain Developer | AI Integrations Specialist**
+**Full Stack Developer (Web3, Game, AI, DeFi)**
 
 📍 Ilara Mokin, Ondo State, Nigeria | 🌐 Remote Worldwide  
 📧 [ajemark0110@gmail.com](mailto:ajemark0110@gmail.com) | 📱 +234 805 117 3413  
