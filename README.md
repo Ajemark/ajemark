@@ -80,6 +80,10 @@ Specialized in bonding curve tokenomics, real-time trading systems, and AI/ML se
 | **OurConnected Next** | Enterprise | RBAC, encrypted vaults, Gantt charts, AI chatbot. Supabase + Next.js 15. |
 | **GDK Contracts** | DeFi | NFT-boosted staking, dynamic APR, casino rewards. Solidity + Next.js. |
 | **Magnitron** | Web3 | TON voting dApp. Tact smart contracts, TON Connect, real-time results. |
+| **AfroCarb** | Climate Tech | African carbon credit tracking and sustainability platform. Next.js dashboard. |
+| **GrokGert** | AI / Automation | AI assistant platform with LLM integration for automation and content generation. |
+| **Smart Deployer** | Web3 / DeFi | No-code smart contract deployment for ERC-20 tokens, NFTs, and DeFi protocols. |
+| **Tradify Business** | Web2 / Fintech | Trading analytics platform with AI-powered market insights and portfolio management. |
 
 ### 📁 Public Repositories
 
